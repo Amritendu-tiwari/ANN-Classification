@@ -5,6 +5,10 @@
 This project is a **Customer Churn Prediction** app built with **Streamlit**, **TensorFlow**, and **scikit-learn**. It predicts the likelihood of a customer leaving (churning) based on input data such as geography, age, balance, salary, etc
 
 ---
+## 🚀 Demo
+
+https://amritendutiwari.streamlit.app/
+You can run this app  using Streamlit. 
 
 ## 📦 Features
 
