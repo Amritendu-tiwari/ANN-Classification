@@ -33,4 +33,9 @@ You can run this app locally using Streamlit. See instructions below.
 ---
 
 ## 📁 Project Structure
-
+├── model.h5 # Trained ANN model
+├── scaler.pkl # StandardScaler object
+├── label__encoder_gender.pkl # LabelEncoder for Gender
+├── onehot_enocder_geo.pkl # OneHotEncoder for Geography
+├── app.py # Streamlit app code
+└── README.md # Project readme
